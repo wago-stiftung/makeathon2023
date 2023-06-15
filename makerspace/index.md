@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "WAGO Stiftung - Makerspace"
+title: "Makeathon 2023 - Makerspace"
 ---

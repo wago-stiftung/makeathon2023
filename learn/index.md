@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WAGO Stiftung - Learning Nuggets"
+title: "Makeathon 2023 - Learning Nuggets"
 ---
 
 - [Ideation Workshop](/learn/ideation-workshop)

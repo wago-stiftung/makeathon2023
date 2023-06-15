@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "WAGO-Stiftung - Shop"
+title: "Makeathon 2023 - Shop"
 ---

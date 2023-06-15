@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "WAGO Stiftung - Ideation Workshop"
+title: "Makeathon 2023 - Ideation Workshop"
 ---
