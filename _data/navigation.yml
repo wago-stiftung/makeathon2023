@@ -1,13 +1,12 @@
 # main links links
 main:
-  - title: "Makeathon"
-    url: /makeathon/
-  - title: "Kolloquium"
-    url: /year-archive/
-  - title: "Über uns"
-    url: /collection-archive/
-  - title: "Kontakt"
-    url: /sitemap/
+  - title: "Shop"
+    url: /shop/
+  - title: "Learn"
+    url: /learn/
+  - title: "Make"
+    url: /make/
+
   # - title: "Extra Menu Item 1"
   #   url: /
   # - title: "Extra Menu Item 2"

@@ -6,17 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "wago-stiftung/jekyll-theme-wago-stiftung"
+#theme                    : "jekyll-theme-wago-stiftung"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "WAGO Stiftung"
+title                    : "WAGO Stiftung - Makeathon 2023"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "WAGO Stiftung"
 description              : ""
 url                      : "https://wago-stiftung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "makeathon2023"
+baseurl                  : "/makeathon2023"
 repository               : "wago-stiftung/makeathon2023" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/wago-stiftung_startseite.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

@@ -1,56 +1,28 @@
 ---
 layout: splash
 author_profile: false
-title:
+title: "WAGO Stiftung - Makeathon 2023"
 header:
-  overlay_color: "#0c1012"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/wago-stiftung_startseite.jpg
-  wrapper: "height: 400px"
-row1:
-  - image_path: /assets/images/MM-16230_WAGO_Stiftung_GWA_01_2000x1125.jpg
-    video:
-      id: tmAZAQFCKEc
-      provider: youtube
-    alt: "WAGO Stiftung"
-    title: "DIE WAGO STIFTUNG"
-    excerpt: "Die WAGO Stiftung möchte Ideen und Potenziale finden und fördern. In Makeathons und Kolloquien vernetzen sich Nachwuchstalente und Experten in der modernen Automatisierungstechnik – um die Fachkräfte und Innovationen von morgen zu sichern und Zukunft zu gestalten."
-    url: "/"
-    btn_label: "Mehr erfahren"
-    btn_class: "btn--primary"
-row2:
-  - image_path: /assets/images/MM-16230_WAGO_Stiftung_GWA_01_2000x1125.jpg
-    alt: "WAGO Stiftung - Makeathon"
-    title: "Makeathon"
-    excerpt: "Engagiert und technikinteressiert? Dann beim Makeathon der WAGO Stiftung kreativ werden – und gemeinsam die Zukunft der Automatisierung gestalten."
-    url: "makeathon"
-    btn_label: "Mehr erfahren"
-    btn_class: "btn--secondary"
-  - image_path: /assets/images/Teaser-Kolloquium_2000x1125.jpg
-    alt: "Kolloquium"
-    title: "Kolloquium"
-    excerpt: "Hier vernetzen sich Experten und Nachwuchstalente, um über die Zukunftstrends im Bereich Digitalisierung und Automatisierung zu sprechen und gemeinsam neue Ideen zu entwickeln."
-    url: "kolloquium"
-    btn_label: "Mehr erfahren"
-    btn_class: "btn--secondary"
-row3:
-  - image_path: /assets/images/envelope_x3.svg
-    alt: "Kontakt"
-    title: "Fragen? Wir helfen gern!"
-    excerpt: "Hast Du Fragen zur Stiftung generell oder zu einem unserer Formate? Dann melde Dich bei uns und wir beantworten diese gern."
-    url: "kontakt"
-    btn_label: "Mehr erfahren"
-    btn_class: "btn--secondary"
+  overlay_color: "#1f2837"
+  overlay_filter: "0"
+  overlay_image: /assets/images/MM-16230_WAGO_Stiftung_GWA_01_2000x1125.jpg
+  wrapper: "height: 320px"
 ---
 
-<!-- <p>This text should appear above the recent posts.</p> -->
+## ENERGIEWENDE – WAS KANN ICH TUN?
 
-{% include feature_row id="row1" type="left" %}
+Die Energiewende ist in aller Munde: CO2-Ausstoß verringern oder ganz beseitigen, regenerative Energien wie Wind-, Wasser und Solarkraft nutzen, Energiebedarfe von Wohnhäusern oder Fertigungsprozessen verringern und optimieren. Doch wie genau kann uns diese so dringend erforderliche Energiewende gelingen und was kann jeder Einzelne dazu beitragen?  
 
-{% include feature_row id="row2" %}
+Auf dem WAGO Stiftung Makeathon 2023 hast Du die Möglichkeit, Dich zu diesem Thema „auszutoben“. Wir stellen Dir und Deinem Team ein Rundum-sorglos-Paket – eine Mischung aus WAGO Produkten und weiteren Materialien – zur Verfügung und dann könnt Ihr Eurer Kreativität freien Lauf lassen! Dafür könnt Ihr den Coworking-Space des Mindener Start-up-Zentrums nutzen.
 
-{% include feature_row id="row3" type="left" highlight="true" %}
+Neben der Arbeit am Projekt gibt es noch ein abwechslungsreiches Rahmenprogramm, bestehend aus Vorträgen zu Trendthemen wie „Design Thinking“ oder „Github“ sowie sportlichen oder teambildenden Aktivitäten.
 
-# WAGO Stiftung News
+Wir sind gespannt auf Eure Ideen, denn jeder Beitrag ist wichtig, damit uns die Energiewende gelingt. Und wenn Ihr am Ende auch unsere Expertenjury überzeugen könnt, erwarten Euch neben der Möglichkeit, das Projekt gegebenenfalls weiterzuverfolgen, Sach- und Geldpreise.
 
-{% include posts-recent3.html %}
+### Was wir bereitstellen und andere Infos
+
+- Shop
+- Mini Makerspace
+- Ideation Workshop
+- Workshops
+- Kontakte
