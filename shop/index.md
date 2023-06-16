@@ -22,9 +22,7 @@ title: "Makeathon 2023 - Shop"
 | Stromversorgung | Steckdosenleisten |
 | Stromversorgung | Verlängerungskabel |
 | Kleber  | Isolierband |
-| Kleber  | Doppelseitiges Klebeband |
-| Kleber  | Klebeband/Tesa breit |
-| Kleber  | Tesafilm |
+| Kleber  | Klebeband diverse |
 | Kabelbinder | Kabelbinder diverse |
 | Kabelbinder | Klebesockel für Kabelbinder |
 | Schrauben  | Kasten Schraubensortiment M3-M6 |
@@ -64,12 +62,12 @@ title: "Makeathon 2023 - Shop"
 | Elektronik | Raaco Kasten Widerstände |
 | Speicher  | USB SD-Card Reader |
 | Speicher  | 32GB SD Karten |
-| Kabel | HDMI-Kabel |
-| Kabel | µUSB 1,5/2m |
-| Kabel | USB A |
-| Kabel | USB C |
-| Kabel | 0.5 blau |
-| Kabel | 0.5 blau-weiß |
+| Kabel | HDMI Kabel |
+| Kabel | µUSB Kabel |
+| Kabel | USB-A Kabel |
+| Kabel | USB-C Kabel |
+| Kabel | feindrähtige Leitung 0.5mm² blau |
+| Kabel | feindrähtige Leitung 0.5mm² blau-weiß |
 | Kabel | Jumperkabel male-male |
 | Kabel | Jumperkabel male-female |
 | Kabel | Jumperkabel female-female |
@@ -108,7 +106,7 @@ title: "Makeathon 2023 - Shop"
 | Motor | Vibrationsmotoren klein |
 | Motor | Vibrationsmotoren groß |
 | Motor | Servos 9g |
-| Sensor | 40in1SensorSets |
+| Sensor | 40in1Sensor-Sets |
 | Sensor | analoger Flüssiggas-Sensor MQ6 |
 | Sensor | Debo GAS1 MQ2 (brennbare Gase) |
 | Sensor | Debo GAS2 MQ2 (brennbare Gase und Rauch) |
@@ -124,17 +122,17 @@ title: "Makeathon 2023 - Shop"
 | Sensor | Fotowiderstandsmodul |
 | Sensor | Piezo-Vibrationssensor |
 | Sensor | RFID Sets |
-| Interface | 288-853 12-fach Schaltermodul |
-| Zubehör | 807-634 Tragschienen WAGO |
-| Zubehör | Reihenklemmen |
-| Zubehör | 249-116 Endklammern 6mm |
+| Interface | WAGO 12-fach Schaltermodul |
+| Zubehör | WAGO Tragschienen |
+| Zubehör | WAGO Reihenklemmen diverse |
+| Zubehör | WAGO Endklammern|
 | Controller | WAGO CC 100 |
-| Dosenklemme | Durchgang 221 |
-| Dosenklemme | 221 5-fach |
-| Dosenklemme | 221 3-fach |
-| Dosenklemme | 221 2-fach |
-| Stromversorgung | Tragschienenmodule mit 5+24V inkl. Anschlussleitung |
-| Stromversorgung | WAGO-Schaltkasten mit Netzteilen, 6x24V |
-| Stromversorgung | Winsta-Leitungen für WAGO-Schaltkasten |
+| Dosenklemme | WAGO Serie 221 Durchgangsklemme |
+| Dosenklemme | WAGO Serie 221 5-fach Verbindungsklemme |
+| Dosenklemme | WAGO Serie 221 3-fach Verbindungsklemme |
+| Dosenklemme | WAGO Serie 221 2-fach Verbindungsklemme |
+| Stromversorgung | WAGO Tragschienenmodule mit 5+24V inkl. Anschlussleitung |
+| Stromversorgung | WAGO Schaltkasten mit Netzteilen, 6x24V |
+| Stromversorgung | WAGO Winsta-Leitungen für WAGO-Schaltkasten |
 | Windows Rechner | HP Notebooks |
 | Windows Rechner | HP Netzteile |
