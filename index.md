@@ -58,7 +58,7 @@ StartMiUpFB <br>
 | Fabian Winkelmann | Coach |
 | Rouven Meyer | Coach |
 | Tim Bollmeyer | Coach |
-| Jens Walsemann | StartMIndenUp, Jury |
+| Jens Lütke-Börding | StartMIndenUp, Jury |
 | Silke Timmermann | StartMIndenUp |
 | Lea Langer | StartMIndenUp |
 
