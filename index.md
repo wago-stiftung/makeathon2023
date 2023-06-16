@@ -21,8 +21,35 @@ Wir sind gespannt auf Eure Ideen, denn jeder Beitrag ist wichtig, damit uns die 
 
 ### Was wir bereitstellen und andere Infos
 
-- Shop
-- Mini Makerspace
-- Ideation Workshop
-- Workshops
-- Kontakte
+- [Shop](/makeathon2023/shop/)
+- [Learn](/makeathon2023/learn/)
+  - [Ideation Workshop](/makeathon2023/learn/ideation-workshop)
+  - [Workshops](/makeathon2023/learn/workshops)
+  - [Artikel zur Inspiration](/makeathon2023/learn/articles)
+- [Makerspace](/makeathon2023/makerspace/)
+
+### Kontakte
+
+**Personen vor Ort**
+
+| Name | Funktion Makeathon |
+| - | - |
+| Nina Waltemathe | Organisation |
+| Thomas Heimann | WAGO Stiftung, Organisation, Jury |
+| Christian Hohorst | WAGO Stiftung, Jury |
+| Tobias Lehmann | Ideation Workshop, Jury |
+| André Bell | Coach, Jury |
+| Marco Henkel | Coach, Jury |
+| Maik Rehburg | Coach |
+| Lisa Lüder | Coach |
+| Florian Deerberg | Coach |
+| Mattis Fieseler | Coach |
+| Fabian Winkelmann | Coach |
+| Rouven Meyer | Coach |
+| Tim Bollmeyer | Coach |
+| Jens Walsemann | StartMIndenUp, Jury |
+| Silke Timmermann | StartMIndenUp |
+| Lea Langer | StartMIndenUp |
+
+In dringenden Fällen: 
+- Andre Bell 0162-4366403
