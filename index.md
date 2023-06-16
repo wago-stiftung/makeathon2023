@@ -28,6 +28,17 @@ Wir sind gespannt auf Eure Ideen, denn jeder Beitrag ist wichtig, damit uns die 
   - [Artikel zur Inspiration](/makeathon2023/learn/articles)
 - [Makerspace](/makeathon2023/makerspace/)
 
+
+### WLAN Anmeldedaten
+**5 GHz** <br>
+startup <br>
+Minden-Startup1!
+
+**2,4 GHz** <br>
+StartMiUpFB <br>
+4324 6641 4853 5029 3845
+
+
 ### Kontakte
 
 **Personen vor Ort**
