@@ -28,5 +28,5 @@ title: "Makeathon 2023 - Workshops"
 
 | Uhrzeit | Thema | GitHub | Mentor |
 | - | - | - | - | 
-| 9:30 – 10:00 | Data Analytics am Beispiel einer PV Anlage | [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo](https://github.com/wago-stiftung/workshop_data-analytics) | Tim |
+| 9:30 – 10:00 | Data Analytics am Beispiel einer PV Anlage | [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/wago-stiftung/workshop_data-analytics) | Tim |
 | 10:15 – 10:45 | Elektromobilität mit WAGO: Lastmanagement und Monitoring mit Grafana  | | Florian |
