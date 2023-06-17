@@ -1,16 +1,17 @@
 # Authors
 
 Andre Bell:
-  name        : "André Alexander Bell"
+  name        : "André Bell"
   bio         : "Education builds the future, one skill at a time..."
   avatar      : "/assets/images/bio-photo.jpg"
   phone       : "+49 571 887 - 49596"
   fax         : "+49 571 887 - 849596"
   email       : "andre.bell@wago.com"
+  position    : >
+    Ltg. Ausbildung ET und Inf.<br>
+    WAGO GmbH & Co. KG
+
   bio         : >
-    Vocational Training Officer<br>
-    Vocational Training International<br>
-    <br>
     Education builds the future, one skill at a time...
 
   address     : >
@@ -19,21 +20,31 @@ Andre Bell:
 
     32423 Minden
 
+  skills      :
+    - Git/GitHub
+    - Python
+
 Lisa Lüder:
   name        : "Lisa Lüder"
   avatar      : "/assets/images/bio-photo.jpg"
   # phone       : "+49 571 887 - 71336"
   # fax         : "+49 571 887 - 871336"
   email       : "lisa.lueder@wago.com"
-  bio         : >
+  position    : >
     Vocational Training Officer<br>
     Vocational Training International
 
+  bio         : >
+    Versteh es, berechne es, bau es...
+  
   # address     : >
   #   WAGO GmbH & Co. KG<br/>
   #   Hansastraße 27<br>
 
   #   32423 Minden
+  skills      :
+    - ESP32
+    - Arduino
 
 Maik Rehburg:
   name        : "Maik Rehburg"
@@ -41,15 +52,21 @@ Maik Rehburg:
   # phone       : "+49 571 887 - 49118"
   # fax         : "+49 571 887 - 849118"
   email       : "maik.rehburg@wago.com"
-  bio         : >
+  position    : >
     Vocational Training Officer<br>
     Vocational Training International
+
+  bio         : >
+    Wenn Du es Dir vorstellen kannst, dann kannst Du es auch bauen...
 
   # address     : >
   #   WAGO GmbH & Co. KG<br/>
   #   Hansastraße 27<br>
 
   #   32423 Minden
+  skills      :
+    - ESP32
+    - Python
 
 Tina Meyer:
   name        : "Tina Meyer"
@@ -67,14 +84,127 @@ Tina Meyer:
 
     32423 Minden
 
-# Cornelius Fiddlebone:
-#   name        : "Cornelius Fiddlebone"
-#   bio         : "I ordered what?"
-#   avatar      : "/assets/images/bio-photo.jpg"
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:cornelius@thewhip.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/rhymeswithsackit"
+Nina Waltemathe:
+  name        : "Nina Waltemathe"
+  email       : "Nina.Waltemathe@wago.com"
+  bio         : >
+    Et mollit tempor ea dolore aliqua sunt cillum mollit aute elit labore.
+
+Thomas Heimann:
+  name        : "Thomas Heimann"
+  email       : "Thomas.Heimann@wago.com"
+  bio         : >
+    Irure proident ut sint anim adipisicing enim quis dolore enim.
+  
+  position: >
+    Vorstand<br/>
+    WAGO Stiftung<br/>
+    <br/>
+    Leitung Ausbildung Int.<br/>
+    WAGO GmbH & Co. KG
+
+Christian Hohorst:
+  name        : "Christian Hohorst"
+  email       : "Christian.Hohorst@wago.com"
+  bio         : >
+    Die WAGO Stiftung möchte Ideen und Potenziale finden und fördern.
+  
+  position    : >
+    Vorstand<br/>
+    WAGO Stiftung
+
+Tobias Lehmann:
+  name        : "Tobias Lehmann"
+  email       : "Tobias.Lehmann@wago.com"
+  bio         : >
+    Turn people into idea creation masterminds...
+  
+  skills:
+    - Ideation
+    - SCRUM
+    - Design Thinking
+  
+  position: >
+    Innovation Manager<br/>
+    WAGO GmbH & Co. KG
+
+Marco Henkel:
+  name        : "Marco Henkel"
+  email       : "Marco.Henkel@wago.com"
+  bio         : >
+    Der Wert von Technologie wird durch die Anwendung geprägt.
+  
+  skills:
+    - Datenbanken
+    - Automatisierungstechnik
+  
+  position: >
+    Technology Management<br/>
+    WAGO GmbH & Co. KG
+
+Florian Deerberg:
+  name        : "Florian Deerberg"
+  email       : "Florian.Deerberg@wago.com"
+  bio         : >
+    E-Mobilität braucht Ladeinfrastruktur!
+  skills:
+    - CC100
+    - SPS
+
+Mattis Fieseler:
+  name        : "Mattis Fieseler"
+  email       : "Mattis.Fieseler@wago.com"
+  bio         : >
+    There are 10 kinds of people in the world. Those who understand binary and those who don't
+  skills:
+    - C#
+    - Datenbanken
+
+Fabian Winkelmann:
+  name        : "Fabian Winkelmann"
+  email       : "Fabian.Winkelmann@wago.com"
+  bio         : >
+    Trust me, I'm a programmer
+  skills:
+    - HTML/CSS
+    - Javascript
+
+Rouven Meyer:
+  name        : "Rouven Meyer"
+  email       : "Rouven.Meyer@wago.com"
+  bio         : >
+    Measure the energy....
+  skills:
+    - NodeRED
+    - RaspberryPi
+
+Tim Bollmeyer:
+  name        : "Tim Bollmeyer"
+  email       : "Tim.Bollmeyer@wago.com"
+  bio         : >
+    Powered by the sun ☀, analyzed with Grafana
+  skills:
+    - Data analytics
+    - Grafana
+
+Jens Lütke-Börding:
+  name        : "Jens Lütke-Börding"
+  email       : "luetke-boerding@mew.de"
+  bio         : >
+    Elit sunt ipsum deserunt cupidatat labore tempor aliquip tempor veniam aliqua reprehenderit amet dolore ipsum.
+  
+  position: >
+    Chief Operating Officer<br/>
+    StartMindenUp
+
+Silke Timmermann:
+  name        : "Silke Timmermann"
+  email       : "Timmermann@mew.de"
+  bio         : >
+    Eu occaecat qui cillum dolor commodo ipsum reprehenderit mollit minim ut.
+
+Lea Langer:
+  name        : "Lea Langer"
+  email       : "Langer@mew.de"
+  bio         : >
+    Consectetur et est cupidatat fugiat consequat.
