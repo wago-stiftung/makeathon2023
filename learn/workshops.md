@@ -16,7 +16,7 @@ title: "Makeathon 2023 - Workshops"
 #### Raum 2 – Workshop: Informatik-Input 
 
 | Uhrzeit | Thema | GitHub | Mentor |
-| - | - | - |
+| - | - | - | - |
 | 9:30 – 10:00 | Datenbanken 1: Einstieg in relationale Datenbanken und SQL | | Marco |
 | 10:15 – 10:45 | Datenbanken 2: C# - der Einstieg in .NET | [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/wago-stiftung/workshop_CSharp) | Mattis |
 | 11:00 – 11:30 | GitHub – Build the future with supercharged collaboration | [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/wago-stiftung/workshop_gitgithub) | André |
@@ -27,6 +27,6 @@ title: "Makeathon 2023 - Workshops"
 #### Raum 3 – Gr. Konferenzraum: Beispiele und Visualisierung 
 
 | Uhrzeit | Thema | GitHub | Mentor |
-| - | - | - |
-| 9:30 – 10:00 | Data Analytics am Beispiel einer PV Anlage | | Tim |
+| - | - | - | - | 
+| 9:30 – 10:00 | Data Analytics am Beispiel einer PV Anlage | [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo](https://github.com/wago-stiftung/workshop_data-analytics) | Tim |
 | 10:15 – 10:45 | Elektromobilität mit WAGO: Lastmanagement und Monitoring mit Grafana  | | Florian |
