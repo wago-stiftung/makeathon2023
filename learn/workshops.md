@@ -12,7 +12,7 @@ title: "Makeathon 2023 - Workshops"
 | 11:00 – 11:30 | ESP32 – Der perfekte Mikrocontroller für Maker-Projekte | [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/wago-stiftung/workshop_esp32) | Lisa |
 
 ----
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i>]()
+
 #### Raum 2 – Workshop: Informatik-Input 
 
 | Uhrzeit | Thema | GitHub | Mentor |
