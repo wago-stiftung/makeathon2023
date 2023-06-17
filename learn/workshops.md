@@ -5,11 +5,11 @@ title: "Makeathon 2023 - Workshops"
 
 #### Raum 1 – Kl. Konferenzraum: Hardwarenahe Programmierung (ESP, CC100, RasPi) 
 
-| Uhrzeit | Thema | Mentor |
-| - | - | - | 
-| 9:30 – 10:00 | AgriPower: Energiemanagement mit Node Red und RaspberryPi | Rouven |
-| 10:15 – 10:45 | Python mit der WAGO Kompaktsteuerung CC100  [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo](https://github.com/wago-stiftung/wago_cc100_python) | Maik |
-| 11:00 – 11:30 | ESP32 – Der perfekte Mikrocontroller für Maker-Projekte [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo]() | Lisa |
+| Uhrzeit | Thema | Repository |Mentor |
+| - | - | - | - |
+| 9:30 – 10:00 | AgriPower: Energiemanagement mit Node Red und RaspberryPi | | Rouven |
+| 10:15 – 10:45 | Python mit der WAGO Kompaktsteuerung CC100 | [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo](https://github.com/wago-stiftung/wago_cc100_python) | Maik |
+| 11:00 – 11:30 | ESP32 – Der perfekte Mikrocontroller für Maker-Projekte | [<i class="fab fa-fw fa-github" aria-hidden="true"></i> Repo]() | Lisa |
 
 ----
 
