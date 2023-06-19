@@ -29,16 +29,6 @@ Wir sind gespannt auf Eure Ideen, denn jeder Beitrag ist wichtig, damit uns die 
 - [Makerspace](/makeathon2023/makerspace/)
 
 
-### WLAN Anmeldedaten
-**5 GHz** <br>
-startup <br>
-Minden-Startup1!
-
-**2,4 GHz** <br>
-StartMiUpFB <br>
-4324 6641 4853 5029 3845
-
-
 ### Kontakte
 
 **Personen vor Ort**
@@ -61,6 +51,3 @@ StartMiUpFB <br>
 | Jens Lütke-Börding | StartMIndenUp, Jury |
 | Silke Timmermann | StartMIndenUp |
 | Lea Langer | StartMIndenUp |
-
-In dringenden Fällen: 
-- Andre Bell 0162-4366403
