@@ -13,13 +13,13 @@ header:
 
 Die Energiewende ist in aller Munde: CO2-Ausstoß verringern oder ganz beseitigen, regenerative Energien wie Wind-, Wasser und Solarkraft nutzen, Energiebedarfe von Wohnhäusern oder Fertigungsprozessen verringern und optimieren. Doch wie genau kann uns diese so dringend erforderliche Energiewende gelingen und was kann jeder Einzelne dazu beitragen?  
 
-Auf dem WAGO Stiftung Makeathon 2023 hast Du die Möglichkeit, Dich zu diesem Thema „auszutoben“. Wir stellen Dir und Deinem Team ein Rundum-sorglos-Paket – eine Mischung aus WAGO Produkten und weiteren Materialien – zur Verfügung und dann könnt Ihr Eurer Kreativität freien Lauf lassen! Dafür könnt Ihr den Coworking-Space des Mindener Start-up-Zentrums nutzen.
+Auf dem WAGO Stiftung Makeathon 2023 hattest Du die Möglichkeit, Dich zu diesem Thema „auszutoben“. Wir stellten Dir und Deinem Team ein Rundum-sorglos-Paket – eine Mischung aus WAGO Produkten und weiteren Materialien – zur Verfügung und dann konntet Ihr Eurer Kreativität freien Lauf lassen! Dafür konntet Ihr den Coworking-Space des Mindener Start-up-Zentrums nutzen.
 
-Neben der Arbeit am Projekt gibt es noch ein abwechslungsreiches Rahmenprogramm, bestehend aus Vorträgen zu Trendthemen wie „Design Thinking“ oder „Github“ sowie sportlichen oder teambildenden Aktivitäten.
+Neben der Arbeit am Projekt gab es noch ein abwechslungsreiches Rahmenprogramm, bestehend aus Vorträgen zu Trendthemen wie [„Design Thinking“](/makeathon2023/learn/ideation-workshop.md) oder unseren [Workshops](/makeathon2023/learn/workshops) sowie sportlichen oder teambildenden Aktivitäten.
 
-Wir sind gespannt auf Eure Ideen, denn jeder Beitrag ist wichtig, damit uns die Energiewende gelingt. Und wenn Ihr am Ende auch unsere Expertenjury überzeugen könnt, erwarten Euch neben der Möglichkeit, das Projekt gegebenenfalls weiterzuverfolgen, Sach- und Geldpreise.
+Eure Ideen waren großartig und ihr habt unglaublichen Eindruck bei der Jury hinterlassen.
 
-### Was wir bereitstellen und andere Infos
+### Was wir bereitstellten und andere Infos
 
 - [Programm](/makeathon2023/programm/)
 - [Shop](/makeathon2023/shop/)
